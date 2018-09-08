@@ -1,5 +1,6 @@
 # whitespace-stack-flood
-A stupid program that shouldn't exist, in a language that shouldn't exist
+A stupid program that shouldn't exist, in a language that shouldn't exist. Here's the thread that inspired this wonderful project: 
+https://www.reddit.com/r/ProgrammerHumor/comments/9dvwhn/java_java/e5kg126
 
 Run the code here: http://vii5ard.github.io/whitespace/
 
